@@ -1,7 +1,7 @@
 ### Clone
 
 ```
-   git clone https://bitbucket.org/product66/munitymetahorse.git
+   git clone https://try-to-be-admin@bitbucket.org/try-to-be/munity-metahorse-latest.git
 ```
 
 ### Install dependencies

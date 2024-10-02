@@ -1,7 +1,7 @@
 ### Clone
 
 ```
-   git clone https://try-to-be-admin@bitbucket.org/try-to-be/munity-metahorse-latest.git
+   git clone https://try-to-be-admin@bitbucket.org/try-to-be/mm-l.git
 ```
 
 ### Install dependencies
